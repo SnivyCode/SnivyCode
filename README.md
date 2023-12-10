@@ -9,7 +9,7 @@ I also love graphics design, infact I can design User Interfaces (UI) according 
 
 • My Frameworks
 
-[![My Frameworks](https://skillicons.dev/icons?i=nodejs,bootstrap)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=nodejs,bootstrap,netlify,heroku)](https://skillicons.dev)
 
 • Tools I use
 
