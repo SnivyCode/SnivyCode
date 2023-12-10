@@ -5,7 +5,7 @@ I also love graphics design, infact I can design User Interfaces (UI) according 
 
 • My Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,c)](https://skillicons.dev)
 
 • My Frameworks
 
@@ -13,7 +13,7 @@ I also love graphics design, infact I can design User Interfaces (UI) according 
 
 • Tools I use
 
-[![My Frameworks](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=vscode,replit,figma)](https://skillicons.dev)
 <!--
 **SnivyCode/SnivyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
