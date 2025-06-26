@@ -5,15 +5,15 @@ I also love graphics design, infact I can design User Interfaces (UI) according 
 
 • My Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,java)](https://skillicons.dev)
 
-• My Frameworks
+• Other
 
-[![My Frameworks](https://skillicons.dev/icons?i=nodejs,bootstrap,netlify,heroku)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=nodejs,djs,mongodb,bootstrap,netlify,heroku)](https://skillicons.dev)
 
 • Tools I use
 
-[![My Frameworks](https://skillicons.dev/icons?i=idea,webstorm,vscode,replit,figma)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=idea,webstorm,vscode,replit,figma,notion)](https://skillicons.dev)
 <!--
 **SnivyCode/SnivyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
