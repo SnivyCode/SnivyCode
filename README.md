@@ -5,7 +5,7 @@ I also love graphics design, infact I can design User Interfaces (UI) according 
 
 • My Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,java,mysql)](https://skillicons.dev)
 
 • Other
 
