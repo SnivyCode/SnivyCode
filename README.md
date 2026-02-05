@@ -1,30 +1,32 @@
-### SnivyCode
+## SnivyCode
+*Also known as FlySnivy, SnivellingTree6*
 
-Hello, I'm Snivy, I come from Italy, I'm an aviation enthusiast from a very young age, but during my adolescence I also developed a passion for computer science, which led me to study programming languages and enroll in high school computer science.
-I also love graphics design, infact I can design User Interfaces (UI) according with the User Experience (UX)
+I'm Luca, I come from Italy, and I consider myself a front-end developer, with some interest in back-end development too.
+Not just a coder, but also an aviation enthusiast from a very young age. <br>
+During my adolescence I developed a passion for computer science, which led me to study programming languages and enroll in high school computer science, all mixed up with aviation as well.<br>
+I also love graphics design, I like designing User Interfaces (UI) according with the User Experiences (UX).
 
-• My Programming Languages
+**• Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,java,mysql)](https://skillicons.dev)
+[![Font-end](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,bootstrap&theme=light)](https://skillicons.dev)
 
-• Other
+**• Back-end**
 
-[![My Frameworks](https://skillicons.dev/icons?i=nodejs,discordjs,mongodb,bootstrap,netlify,heroku)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=nodejs,c,java,python,arduino&theme=light)](https://skillicons.dev)
 
-• Tools I use
+**• Database**
 
-[![My Frameworks](https://skillicons.dev/icons?i=idea,webstorm,vscode,replit,figma,notion)](https://skillicons.dev)
-<!--
-**SnivyCode/SnivyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**• Hosting providers**
+
+[![Hosting](https://skillicons.dev/icons?i=vercel,netlify,heroku&theme=light)](https://skillicons.dev)
+
+**• Tools I can use**
+
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,webstorm,pycharm,replit,figma&theme=light)](https://skillicons.dev)
+
+*Things that I've learned a bit personally or at internship work, but that I do not consider "well-knowing", but able to understand something.*
+
+[![Hosting](https://skillicons.dev/icons?i=angular,cs,net,robloxstudio,blender,flutter,dart,lua&theme=light)](https://skillicons.dev)
